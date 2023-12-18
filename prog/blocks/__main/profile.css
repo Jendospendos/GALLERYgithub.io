@@ -1,0 +1,36 @@
+.profile {
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    flex-direction: column  ;
+    background-color: black;
+    color: white;
+}
+
+.profile__photo {
+    margin: 0 auto;
+    max-width: 300px;
+}
+
+.profile__name {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.profile__input {
+    margin: 10px auto;
+    background-color: black;
+    border: white solid 0.5px;
+    border-radius: 5px;
+    max-width: 300px;
+    color: white;
+}
+
+.profile__input:active, :hover, :focus {
+    outline: 0;
+    outline-offset: 0;
+}
+
+.profile__image_unvisiable{
+    opacity: 0;
+  }

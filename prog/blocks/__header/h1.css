@@ -1,0 +1,17 @@
+.header__container{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.header__h1 {
+    color: white;
+    padding-left: 350px;
+    margin: 0 0;
+    max-width: 100px;
+}
+
+.header__h1-text {
+    color: white;
+    font-size: 10px;
+}

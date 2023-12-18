@@ -1,0 +1,13 @@
+.profile_add {
+    margin: 10px auto;
+    width: 300px;
+    background-color: aquamarine;
+    font-family: 'GOST Type A';
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.profile_add:hover {
+    opacity: 50%;
+}
